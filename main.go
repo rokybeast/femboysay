@@ -9,7 +9,7 @@ import (
 )
 
 const (
-	defaultArtFile = "/etc/femboysay/femboy.txt"
+	defaultArtFile = "/usr/share/femboysay/femboy.txt"
 	defaultWidth = 40
 )
 
